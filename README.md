@@ -184,7 +184,7 @@ Toggle the workflow **Active**. n8n registers the Telegram webhook automatically
 - **Payroll / ERP export:** add an HTTP node after the Postgres upsert to push approved expenses to Expensify, SAP Concur, Xero or your payroll provider.
 
 ---
-
+<!-- 
 ## 🎬 2-Minute Client Demo Script
 
 > **Before the call:** phone mirrored on screen with the Telegram bot open, a second Telegram account as "Manager", n8n canvas and a Postgres viewer (or the last report email) in tabs. Have three real receipts ready: (A) a $18 coffee, (B) a $140 team dinner that includes wine, (C) a photo of receipt A again.
@@ -199,7 +199,7 @@ Toggle the workflow **Active**. n8n registers the Telegram webhook automatically
 | **1:30 – 1:45** | Show the monthly report email: department and category tables, CSV attachment | "On the first of every month, finance gets this automatically: spend by department and category, plus the line-level CSV for payroll." |
 | **1:45 – 2:00** | Config node → back to phone | "Limits, thresholds and approvers are all configurable, and it works on Slack or Teams too. Shall we pilot it with one department next month?" |
 
----
+--- -->
 
 ## Security & Privacy
 
